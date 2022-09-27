@@ -1,2 +1,13 @@
-im lucas and i like code
+### Lucas 
+     Fullstack
 
+> ### Interesses:
+    -> JavaScript
+***
+    -> Shaders
+***
+    -> Games
+***
+    -> Inteligência artificial
+***
+    -> Redes
