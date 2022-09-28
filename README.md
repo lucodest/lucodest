@@ -1,9 +1,10 @@
-# 🩸 Lucas 🩸
-## Fullstack 💻
-
-> ### Interesses:
-    -> JavaScript
-    -> Shaders
-    -> Games
-    -> Inteligência artificial
-    -> Redes
+### ❣ Lucas - 17
+#### Fullstack 💻
+***
+> ### ✨ Interesses:
+> - JavaScript  
+> - Shaders  
+> - Games  
+> - Criptografia
+> - Inteligência artificial  
+> - Redes  
