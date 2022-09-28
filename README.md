@@ -1,5 +1,5 @@
 # 🩸 Lucas 🩸
-## Fullstack
+## Fullstack 💻
 
 > ### Interesses:
     -> JavaScript
